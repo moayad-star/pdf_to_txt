@@ -20,6 +20,6 @@ cd pdf_to_txt
 
 ## use
 
-`
-python3 pdf_to_txt. py 'file pdf '
-`
+
+```python3 pdf_to_txt.py``` `file pdf`
+
